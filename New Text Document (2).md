@@ -1,10 +1,4 @@
 # Dokumentácia k navrhnutej sieti a konfigurácii
-
-## Popis projektu
-Navrhnutá sieť využíva kombináciu IoT zariadení a Radius Servera pre zabezpečenie autentifikácie, autorizácie a správy prístupu do siete. Sériou konfigurácií sa dosiahlo škálovateľné, bezpečné a efektívne riešenie pre domáce IoT zariadenia.
-
----
-
 ## Konfigurácia servera
 ### Radius Server (Server-PT)
 - **IP adresa:** 192.168.0.10
